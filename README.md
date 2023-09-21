@@ -22,8 +22,7 @@ El proyecto consiste en dibujar flores amarillas de forma artística utilizando 
 
 ## Contribuir
 
-Si deseas contribuir a este proyecto, ¡estamos abiertos a colaboraciones! Puedes enviar solicitudes de extracción (pull requests) con mejoras, correcciones de errores o nuevos diseños de flores.
-
+Si deseas contribuir a este proyecto, ¡estamos abiertos a colaboraciones! Puedes enviar solicitudes de extracción (pull requests) con mejoras, correcciones de errores o nuevos diseños de flores. [Enlace al repositorio](https://github.com/JUAND4V1D/Flores_amarillas)
 
 ## Modificador por: 
 
