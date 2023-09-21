@@ -18,19 +18,16 @@ El proyecto consiste en dibujar flores amarillas de forma artística utilizando 
 
 ## Ejemplos de flores
 
-![Flores Amarillas](imagen_de_ejemplo.png)
+![Flores Amarillas](img_fot.png)
 
 ## Contribuir
 
 Si deseas contribuir a este proyecto, ¡estamos abiertos a colaboraciones! Puedes enviar solicitudes de extracción (pull requests) con mejoras, correcciones de errores o nuevos diseños de flores.
 
-## Licencia
 
-Este proyecto está bajo la licencia [Licencia MIT](LICENSE).
+## Modificador por: 
 
-## Autor
-
-- Nombre: Tu Nombre
-- Correo electrónico: tu@email.com
+- Nombre: Juan David Condori Cari
+- Correo electrónico: jc70196106@email.com
 
 ¡Gracias por visitar nuestro repositorio!
